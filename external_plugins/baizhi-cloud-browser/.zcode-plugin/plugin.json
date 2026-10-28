@@ -1,6 +1,6 @@
 {
   "name": "baizhi-cloud-browser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect ZCode to Baizhi Cloud Browser MCP for account checks and browser resource management.",
   "description_i18n": {
     "en": "Connect ZCode to Baizhi Cloud Browser MCP for account checks and browser resource management.",

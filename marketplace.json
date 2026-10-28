@@ -1452,7 +1452,7 @@
         "en": "Connect ZCode to Baizhi Cloud Browser MCP for account checks and browser resource management.",
         "zh-CN": "将 ZCode 连接到百智云浏览器 MCP，查询账号并管理浏览器资源。"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Baizhi Cloud Browser"
       },

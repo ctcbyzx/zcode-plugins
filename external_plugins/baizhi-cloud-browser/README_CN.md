@@ -18,3 +18,11 @@
 - 插件不包含、不安装 CDP 网页客户端。使用前须核对客户端兼容性；不要把控制地址写入日志或公开聊天。
 
 文档：[百智云浏览器](https://capybrowser.app.baizhi.cloud/docs/installation.md)。插件文件采用 Apache-2.0 许可，托管服务适用其自身条款。
+
+## 维护与支持
+
+[百智云浏览器（CapyBrowser）](https://baizhibrowser.cloud/zh/) · [插件源码](https://github.com/ctcbyzx/zcode-plugins/tree/codex/baizhi-cloud-browser-mcp/external_plugins/baizhi-cloud-browser) · [服务控制台](https://capybrowser.app.baizhi.cloud/)。
+
+维护者：[ctcbyzx](https://github.com/ctcbyzx)（[Chaitin 公共接入仓](https://github.com/chaitin/baizhi-cloud-browser)贡献者）。更多接入方式见[公开接入材料](https://github.com/ctcbyzx/baizhi-cloud-browser)。
+
+配置问题可到[接入维护仓 Issues](https://github.com/ctcbyzx/baizhi-cloud-browser/issues)反馈，附客户端版本和脱敏错误信息。账号或账务问题请通过服务控制台处理。

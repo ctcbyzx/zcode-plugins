@@ -18,3 +18,11 @@ Connect ZCode to Baizhi Cloud Browser's MCP endpoint to check credentials and ma
 - This plugin does not include or install a CDP page client. Verify compatibility before using one; avoid placing a control URL in logs or public chat.
 
 Documentation: [Baizhi Cloud Browser](https://capybrowser.app.baizhi.cloud/docs/installation.md). Plugin files are licensed under Apache-2.0; the hosted service has its own terms.
+
+## Maintenance and support
+
+[Baizhi Cloud Browser (CapyBrowser)](https://baizhibrowser.cloud/) · [Plugin source](https://github.com/ctcbyzx/zcode-plugins/tree/codex/baizhi-cloud-browser-mcp/external_plugins/baizhi-cloud-browser) · [Service console](https://capybrowser.app.baizhi.cloud/).
+
+Maintained by [ctcbyzx](https://github.com/ctcbyzx), a contributor to [Chaitin's public integration guides](https://github.com/chaitin/baizhi-cloud-browser). See [other browser integrations](https://github.com/ctcbyzx/baizhi-cloud-browser).
+
+For setup help, use the [integration issue tracker](https://github.com/ctcbyzx/baizhi-cloud-browser/issues) and include the client version and a redacted error. Use the service console for private account or billing questions.
